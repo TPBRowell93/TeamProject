@@ -13,3 +13,7 @@ Staff can view their rota and submit rota requests via their homepage.
 While various members are within the system a simple manager and staff log in have been created.<br> 
 To access the manager section of the system enter manager in both the username and password fields and select manager from the role dropdown.<br>
 Entering staff in both the email and password fields and selecting staff in the dropdown will provide access to the staff section. 
+
+
+Github URL = https://github.com/TPBRowell93/TeamProject
+System URL = http://unn-w19032995.newnumyspace.co.uk/TeamProject/LandingPage.php
